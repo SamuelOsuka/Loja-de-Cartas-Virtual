@@ -1,2 +1,3 @@
 # Loja-de-Cartas-Virtual
-Projeto em SQL de um sistema de armazenamento de dados sobre cartas de pokemons.
+Projeto de um sistema de armazenamento de dados SQLite sobre cartas de pokemons.
+
