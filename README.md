@@ -1,5 +1,5 @@
 # Loja-de-Cartas-Virtual
-Projeto em SQL de um sistema de armazenamento e gerenciamento de dados sobre cartas de pokemons
+Projeto em SQL de um sistema de armazenamento e gerenciamento de dados sobre cartas de pokemons.\
 Neste sistema o usuário pode:\
 -> Buscar pokemons salvos (buscar por ID, nome, URL, raridade, coleção, série ou quantidade);\
 -> Cadastrar novos pokemons;\
